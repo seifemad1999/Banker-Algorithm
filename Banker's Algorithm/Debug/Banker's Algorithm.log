@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\dell\documents\visual studio 2015\projects\banker's algorithm\banker's algorithm\source.cpp(141): warning C4101: 'finish': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\banker's algorithm\banker's algorithm\source.cpp(139): warning C4101: 'k': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\banker's algorithm\banker's algorithm\source.cpp(142): warning C4101: 'ans': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\banker's algorithm\banker's algorithm\source.cpp(201): warning C4101: 'k': unreferenced local variable
+  Banker's Algorithm.vcxproj -> C:\Users\Dell\Documents\Visual Studio 2015\Projects\Banker's Algorithm\Debug\Banker's Algorithm.exe
+  Banker's Algorithm.vcxproj -> C:\Users\Dell\Documents\Visual Studio 2015\Projects\Banker's Algorithm\Debug\Banker's Algorithm.pdb (Full PDB)
